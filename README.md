@@ -6,16 +6,13 @@ This assignment has been adapted from the original assignment published for UC D
 
 ## Table of Contents
 
-Introduction
-gem5 and gem5’s standard libary
-Writing your own configuration script
-Workload and gem5-resources
-Final step: simulate
-Invoking gem5
-Submission
-Grading
-Academic misconduct reminder
-Hints
+- [Introduction](#introduction)
+- [gem5 and gem5’s standard libary](#gem5-and-gem5s-standard-library-gem5-stdlib)
+- [Writing your own configuration script](#writing-your-own-configuration-script)
+- [Workload and gem5-resources](#workload-and-gem5-resources)
+- [Final step: simulate](#final-step-simulate)
+- [Invoking gem5](#invoking-gem5)
+- [Hints](#hints)
 
 # Introduction
 
