@@ -2,7 +2,7 @@
 Mats Brorsson
 
 ## Acknowledgments
-This assignment has been adapted from the original assignment published for UC Davis course  in computer architecture with permission from Prof Jason Lowe-Power.
+This assignment has been adapted from the original assignment published for [UC Davis course in computer architecture](https://jlpteaching.github.io/comparch/) with permission from [Prof Jason Lowe-Power](https://cs.ucdavis.edu/directory/jason-lowe-power).
 
 ## Table of Contents
 
